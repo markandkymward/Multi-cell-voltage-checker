@@ -5,7 +5,6 @@ Based off of the work done here: https://www.youtube.com/watch?v=gCS-p8VnSlg, al
 
 Apllication was for a 10S4P Iion battery setup for an electric skateboard.
 
-offers no current reverse current protection.
 
 OLED is a 0.96 screen similar to: https://www.google.com/search?q=amazon+oled+0.96&rlz=1C1CHBD_enUS877US877&source=univ&tbm=shop&tbo=u&sa=X&ved=2ahUKEwi30Kv0qqbmAhXSZd8KHQ0MBmoQsxh6BAgMECg&biw=971&bih=617&dpr=1.56#spd=11758063574894965900
 Arduino Nano clone
